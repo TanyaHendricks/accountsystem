@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.ucp",
+      "type": "za.ac.nwu.repo.config.RepositoryConfig",
+      "sourceType": "za.ac.nwu.repo.config.RepositoryConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.ucp.jdbc-template",
+      "type": "JdbcTemplate",
+      "sourceType": "za.ac.nwu.repo.config.RepositoryConfig"
+    }
+  ],
+  "hints": []
+}
