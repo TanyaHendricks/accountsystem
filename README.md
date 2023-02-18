@@ -1,4 +1,4 @@
-# accountsystem
-CMPG323 Project1 Account system 
-## Demo
-wonfvkjn`juhefiu hsdjkf
+# Account System
+Third year project for module CMPG323
+
+
